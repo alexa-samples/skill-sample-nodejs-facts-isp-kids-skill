@@ -1,0 +1,43 @@
+{
+  "manifest": {
+    "apis": {
+      "custom": {
+        "endpoint": {
+          "sourceDir": "./lambda/us-east-1_serverlessrepo-ask-kids-f-alexaskillskitnodejsfact-6OPOF8ULFSCX"
+        },
+        "interfaces": []
+      }
+    },
+    "manifestVersion": "1.0",
+    "privacyAndCompliance": {
+      "allowsPurchases": true,
+      "usesPersonalInfo": false,
+      "isChildDirected": true,
+      "isExportCompliant": true,
+      "containsAds": false
+    },
+    "publishingInformation": {
+      "locales": {
+        "en-US": {
+          "name": "Premium Facts Sample - Kids Edition",
+          "smallIconUri": "https://s3.amazonaws.com/CAPS-SSE/echo_developer/3285/4cc8b694ff0d4bdcb2daacb5b73d519d/APP_ICON?versionId=6C7iJLrXfnvoBikNLZRO0IFKDdpuV.by&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20190912T214928Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Credential=AKIAJFEYRBGIHK2BBYKA%2F20190912%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Signature=91682c4ab69835cfe14f77bc2b0b05f90d84216494539b3e0257a1e72979349f",
+          "largeIconUri": "https://s3.amazonaws.com/CAPS-SSE/echo_developer/9cbe/527d79c5d10a4a00a34dc4f7ec20a932/APP_ICON_LARGE?versionId=LnAMjj7PPcI2X3R4lm2xNR8biUbNEmFW&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20190912T214928Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Credential=AKIAJFEYRBGIHK2BBYKA%2F20190912%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Signature=484e22fcf3621a17318bf0018d01564a82036c1fb9b2163426450717448fc23b",
+          "summary": "Facts game for kids, including premium contents",
+          "description": "This is the sample kids skill with premium paid content. Customers can interact with skill for free version facts, or they can ask skill to purchase premium contents. Currently \"history fact\" is available. You can purchase by saying \"buy history fact\" when opening the skill.",
+          "examplePhrases": [
+            "Alexa, open kids premium facts sample",
+            "Alexa, ask kids premium facts sample to tell me a random fact",
+            "Alexa, ask kids premium facts sample to tell me a history fact"
+          ],
+          "keywords": []
+        }
+      },
+      "isAvailableWorldwide": false,
+      "testingInstructions": "* open skill: \"open kids premium facts sample\"\n* trigger buy request: \"buy history fact\"\n* trigger upsell request: \"tell me a history fact\"\n* refund: \"cancel history fact\"",
+      "category": "CHILDRENS_GAMES",
+      "distributionCountries": [
+        "US"
+      ]
+    }
+  }
+}
