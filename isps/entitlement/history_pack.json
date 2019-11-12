@@ -8,8 +8,8 @@
         "name": "History Pack",
         "summary": "The history pack is a great addition because you will hear facts about history.",
         "description": "The history pack expands the set of facts shared with you to include facts about history.",
-        "smallIconUri": "https://s3.amazonaws.com/CAPS-SSE/echo_developer/60f1/8474a14b6de049caa40b93c3b2f67d71/APP_ICON?versionId=Z9w_wlq9.0OvJ7Ezyv3a34ASaukaXOAZ&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20190912T214940Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Credential=AKIAJFEYRBGIHK2BBYKA%2F20190912%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Signature=4fc81334aec0fd6d1f61d0ca1e4d0da2eeed14b9bc5db0bedf25c64c94278413",
-        "largeIconUri": "https://s3.amazonaws.com/CAPS-SSE/echo_developer/9eb1/a94def66f00e4480acc6b401466551c6/APP_ICON_LARGE?versionId=dLkt.ankxL6g4D.2vk1uS5lAt4HioqH6&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20190912T214940Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Credential=AKIAJFEYRBGIHK2BBYKA%2F20190912%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Signature=c83166807ba0dc5c276aa1631e81dbacf40db9987f56f0730338cedac7ffa036",
+        "smallIconUri": "https://s3.amazonaws.com/CAPS-SSE/echo_developer/60f1/8474a14b6de049caa40b93c3b2f67d71/APP_ICON?versionId=Z9w_wlq9.0OvJ7Ezyv3a34ASaukaXOAZ&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20191021T233230Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Credential=AKIAJFEYRBGIHK2BBYKA%2F20191021%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Signature=6ccf1046c065d2cf060c5f845d630911db3ec03fd29dfeb3fae3305763d9b665",
+        "largeIconUri": "https://s3.amazonaws.com/CAPS-SSE/echo_developer/9eb1/a94def66f00e4480acc6b401466551c6/APP_ICON_LARGE?versionId=dLkt.ankxL6g4D.2vk1uS5lAt4HioqH6&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20191021T233230Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86399&X-Amz-Credential=AKIAJFEYRBGIHK2BBYKA%2F20191021%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Signature=7180862f37951c22074678d53951341e9ea304e03111229d39d643746204d84d",
         "examplePhrases": [
           "For Future Use – Example Phrase 1",
           "For Future Use – Example Phrase 2",
