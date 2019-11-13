@@ -24,7 +24,3 @@ To learn more about setting up a skill, or for instructions that will guide you 
 ### Documentation
 * [Official Alexa Skills Kit SDK for Node.js](http://alexa.design/node-sdk-docs) - The Official Node.js SDK Documentation
 * [Official Alexa Skills Kit Documentation](https://developer.amazon.com/docs/ask-overviews/build-skills-with-the-alexa-skills-kit.html) - Official Alexa Skills Kit Documentation
-
-## License Summary
-
-This sample code is made available under a modified MIT license. See the LICENSE file. -->
