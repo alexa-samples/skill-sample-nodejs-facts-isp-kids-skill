@@ -2,9 +2,6 @@
   "manifest": {
     "apis": {
       "custom": {
-        "endpoint": {
-          "sourceDir": "./lambda/us-east-1_serverlessrepo-ask-kids-f-alexaskillskitnodejsfact-6OPOF8ULFSCX"
-        },
         "interfaces": []
       }
     },
